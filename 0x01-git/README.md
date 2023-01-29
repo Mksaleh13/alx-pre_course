@@ -1,2 +1,2 @@
 my second readme
-ghange from git
+change from git
